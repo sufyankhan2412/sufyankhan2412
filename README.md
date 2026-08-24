@@ -180,8 +180,16 @@ I’m also interested in pursuing **AI research and publishing research work**, 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sufyankhan2412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan2412&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sufyankhan2412&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"
+    height="170"
+    alt="Muhammad Sufyan's GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan2412&layout=compact&hide_border=true&theme=github_dark"
+    height="170"
+    alt="Muhammad Sufyan's Most Used Languages"
+  />
 </p>
 
 ---
@@ -189,10 +197,11 @@ I’m also interested in pursuing **AI research and publishing research work**, 
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sufyankhan2412&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sufyankhan2412&theme=github-dark-blue&hide_border=true"
+    alt="Muhammad Sufyan's GitHub Contribution Streak"
+  />
 </p>
-
----
 
 ## Connect
 

@@ -1,18 +1,237 @@
+# Muhammad Sufyan
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sufyankhan420&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sufyankhan420&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyankhan420&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Full-Stack Developer | AI/ML Enthusiast | Computer Science Graduate
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I’m a Computer Science graduate from **COMSATS University Islamabad** with hands-on experience in **full-stack web development** and a growing focus on **Artificial Intelligence, Machine Learning, and Deep Learning**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sufyankhan420&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy building real-world applications, designing backend APIs, working with databases, and exploring how AI can be integrated into practical software systems.
+
+Currently, I’m focused on strengthening my expertise in **AI/ML and full-stack engineering** while exploring opportunities to work on challenging software and AI problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sufyankhan420&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- **Education:** Computer Science, COMSATS University Islamabad
+- **Current Focus:** Artificial Intelligence, Machine Learning, Deep Learning & Full-Stack Development
+- **Experience:** Software Developer Intern at Fleact Tech, Islamabad
+- **Primary Stack:** MERN, Next.js, Python, REST APIs
+- **Interests:** AI Research, Computer Vision, Deep Learning, AI-powered Applications
+- **Location:** Islamabad, Pakistan
+- **Open To:** Software Engineering, Full-Stack Development and AI/ML opportunities
+
+---
+
+## Technical Skills
+
+### Languages
+
+**JavaScript** · **Python** · **Java** · **C++**
+
+### Frontend Development
+
+**React.js** · **Next.js** · **Vite** · **Tailwind CSS** · **HTML** · **CSS** · **Framer Motion**
+
+### Backend Development
+
+**Node.js** · **Express.js** · **FastAPI** · **REST APIs** · **Socket.IO**
+
+### Databases
+
+**MongoDB** · **PostgreSQL** · **Supabase**
+
+### AI & Machine Learning
+
+**Machine Learning** · **Deep Learning** · **Computer Vision** · **Natural Language Processing** · **AI-powered Applications**
+
+### Tools & Deployment
+
+**Git** · **GitHub** · **Docker** · **Postman** · **Vercel** · **Render** · **JWT**
+
+### Development Concepts
+
+**Authentication & Authorization** · **API Architecture** · **Real-time Applications** · **Database Design** · **Software Testing** · **Agile Development**
+
+---
+
+## Experience
+
+### Software Developer Intern — Fleact Tech, Islamabad
+
+**June 2025 – August 2025**
+
+Worked as part of a **4-member Agile development team**, contributing to software development and collaborating on real-world application development.
+
+Worked with modern web technologies and gained practical experience in:
+
+- Full-stack application development
+- Backend API development
+- Database integration
+- Frontend development
+- Team-based Agile development
+- Git and collaborative development workflows
+
+---
+
+## Featured Projects
+
+### AI-Assisted 2D Urban Planning & Society Map Generator
+
+**Final Year Project**
+
+An AI-assisted system designed to generate and organize **2D urban planning and society layouts**.
+
+The project combines software engineering with AI-based approaches to assist in creating structured urban layouts and planning visualizations.
+
+**Focus:** Artificial Intelligence · Computer Vision · Full-Stack Development
+
+---
+
+### Car Rental Marketplace
+
+A full-stack marketplace application designed to connect users with car rental services.
+
+**Technologies:** React.js · Node.js · Express.js · MongoDB · REST APIs
+
+The project focuses on building a complete web application with frontend interfaces, backend APIs, database integration and deployment.
+
+---
+
+### Real-Time Chat Application
+
+A WhatsApp-inspired real-time communication application built with the MERN stack and Socket.IO.
+
+Features include:
+
+- Real-time messaging
+- Authentication
+- Online/offline presence
+- Last-seen functionality
+- Message delivery status
+- Read receipts
+- Message editing
+- Message deletion
+- Real-time Socket.IO communication
+
+**Technologies:** React.js · Node.js · Express.js · MongoDB · Socket.IO · JWT
+
+---
+
+### Book Store
+
+A full-stack web application for browsing and managing books.
+
+**Technologies:** React.js · Node.js · Express.js · MongoDB · REST APIs
+
+---
+
+### NextLayerStudio
+
+A MERN-based agency website focused on presenting digital development services through a modern responsive interface.
+
+**Technologies:** React.js · Node.js · MongoDB · Tailwind CSS · Framer Motion
+
+---
+
+## AI & Research Interests
+
+I’m particularly interested in the intersection of **Artificial Intelligence and Software Engineering**.
+
+My current areas of interest include:
+
+**Artificial Intelligence**
+
+**Machine Learning**
+
+**Deep Learning**
+
+**Computer Vision**
+
+**Natural Language Processing**
+
+**AI Safety**
+
+**AI Cybersecurity**
+
+**Intelligent Software Systems**
+
+I’m also interested in pursuing **AI research and publishing research work**, particularly in areas where AI can be applied to real-world engineering problems.
+
+---
+
+## Currently Learning
+
+**Deep Learning**
+
+**Computer Vision**
+
+**Natural Language Processing**
+
+**Transformer Architectures**
+
+**Attention Mechanisms**
+
+**AI Research Methodology**
+
+**AI Safety & Security**
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sufyankhan2412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan2412&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sufyankhan2412&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Connect
+
+**GitHub:**  
+https://github.com/sufyankhan2412
+
+**LinkedIn:**  
+https://www.linkedin.com/in/sufyan-khan-3683bb291
+
+**Portfolio:**  
+https://portfolio-orcin-six-34.vercel.app/
+
+**Email:**  
+sufyanmk2024801@gmail.com
+
+---
+
+## Open To Opportunities
+
+I’m currently interested in opportunities involving:
+
+**Software Engineering**
+
+**Full-Stack Development**
+
+**MERN Stack Development**
+
+**React / Next.js Development**
+
+**Backend Development**
+
+**AI/ML Engineering**
+
+**AI Research Internships**
+
+If you're working on an interesting product, research project, or engineering problem, feel free to connect.
+
+---
+
+<p align="center">
+  <b>Build. Learn. Research. Improve.</b>
+</p>

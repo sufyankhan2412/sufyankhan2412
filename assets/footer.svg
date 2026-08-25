@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110">
+<defs><linearGradient id="g"><stop stop-color="#2563eb"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient></defs>
+<path d="M0 55 Q150 8 300 55 T600 55 T900 55 T1200 55" fill="none" stroke="url(#g)" stroke-width="2" opacity=".75">
+<animate attributeName="d" dur="7s" repeatCount="indefinite"
+values="M0 55 Q150 8 300 55 T600 55 T900 55 T1200 55;M0 55 Q150 102 300 55 T600 55 T900 55 T1200 55;M0 55 Q150 8 300 55 T600 55 T900 55 T1200 55"/>
+</path>
+<circle cx="600" cy="55" r="5" fill="#60a5fa">
+<animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/>
+</circle>
+</svg>

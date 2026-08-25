@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#020617"/>
+    <stop offset=".52" stop-color="#0f172a"/>
+    <stop offset="1" stop-color="#172554"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#2563eb" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="30"/></filter>
+</defs>
+
+<rect width="1200" height="390" rx="28" fill="url(#bg)"/>
+
+<circle cx="180" cy="90" r="170" fill="url(#glow)" filter="url(#blur)">
+  <animate attributeName="cx" values="180;1020;180" dur="13s" repeatCount="indefinite"/>
+  <animate attributeName="cy" values="90;260;90" dur="11s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1030" cy="290" r="180" fill="url(#glow)" filter="url(#blur)">
+  <animate attributeName="cx" values="1030;250;1030" dur="15s" repeatCount="indefinite"/>
+</circle>
+
+<g fill="#60a5fa">
+  <circle cx="95" cy="65" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1090" cy="75" r="2"><animate attributeName="opacity" values="1;.15;1" dur="2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="940" cy="42" r="1.5"><animate attributeName="opacity" values=".15;1;.15" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="230" cy="310" r="1.5"><animate attributeName="opacity" values="1;.15;1" dur="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="780" cy="320" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+
+<g fill="none" stroke="#334155" opacity=".35">
+  <path d="M0 300 C180 220 320 350 500 270 S850 190 1200 285"/>
+  <path d="M0 330 C190 250 340 370 530 295 S860 220 1200 315"/>
+</g>
+
+<text x="600" y="135" text-anchor="middle" fill="#f8fafc"
+      font-family="Arial, Helvetica, sans-serif" font-size="50"
+      font-weight="700" letter-spacing="4">
+  MUHAMMAD SUFYAN
+</text>
+
+<text x="600" y="182" text-anchor="middle" fill="#60a5fa"
+      font-family="monospace" font-size="21" letter-spacing="3">
+  FULL-STACK DEVELOPER  ×  AI/ML
+</text>
+
+<g font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#94a3b8" text-anchor="middle">
+  <text x="600" y="230">
+    Building scalable web applications
+    <animate attributeName="opacity" values="1;0;0;0;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="230">
+    Engineering AI-powered products
+    <animate attributeName="opacity" values="0;0;1;0;0" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="230">
+    Exploring AI Safety &amp; Deep Learning
+    <animate attributeName="opacity" values="0;0;0;1;0" dur="8s" repeatCount="indefinite"/>
+  </text>
+</g>
+
+<rect x="500" y="270" width="200" height="2" rx="1" fill="#2563eb">
+  <animate attributeName="width" values="70;200;70" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="x" values="565;500;565" dur="4s" repeatCount="indefinite"/>
+</rect>
+
+<text x="600" y="315" text-anchor="middle" fill="#64748b"
+      font-family="monospace" font-size="13" letter-spacing="2">
+  BUILD  •  LEARN  •  RESEARCH  •  SHIP
+</text>
+</svg>

@@ -1,246 +1,417 @@
-# Muhammad Sufyan
+<div align="center">
 
-### Full-Stack Developer | AI/ML Enthusiast | Computer Science Graduate
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:2563eb&height=240&section=header&text=MUHAMMAD%20SUFYAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 
-I’m a Computer Science graduate from **COMSATS University Islamabad** with hands-on experience in **full-stack web development** and a growing focus on **Artificial Intelligence, Machine Learning, and Deep Learning**.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+scalable+web+applications;Engineering+AI-powered+products;MERN+%7C+Next.js+%7C+Python+%7C+Machine+Learning;Turning+ideas+into+production-ready+software" alt="Typing SVG" />
+</a>
 
-I enjoy building real-world applications, designing backend APIs, working with databases, and exploring how AI can be integrated into practical software systems.
+<br/>
 
-Currently, I’m focused on strengthening my expertise in **AI/ML and full-stack engineering** while exploring opportunities to work on challenging software and AI problems.
+<a href="https://github.com/sufyankhan2412">
+<img src="https://komarev.com/ghpvc/?username=sufyankhan2412&style=flat-square&color=2563eb&label=PROFILE+VIEWS" />
+</a>
 
----
+ 
 
-## About Me
+<a href="https://github.com/sufyankhan2412?tab=followers">
+<img src="https://img.shields.io/github/followers/sufyankhan2412?style=flat-square&label=FOLLOWERS&color=111827" />
+</a>
 
-- **Education:** Computer Science, COMSATS University Islamabad
-- **Current Focus:** Artificial Intelligence, Machine Learning, Deep Learning & Full-Stack Development
-- **Experience:** Software Developer Intern at Fleact Tech, Islamabad
-- **Primary Stack:** MERN, Next.js, Python, REST APIs
-- **Interests:** AI Research, Computer Vision, Deep Learning, AI-powered Applications
-- **Location:** Islamabad, Pakistan
-- **Open To:** Software Engineering, Full-Stack Development and AI/ML opportunities
-
----
-
-## Technical Skills
-
-### Languages
-
-**JavaScript** · **Python** · **Java** · **C++**
-
-### Frontend Development
-
-**React.js** · **Next.js** · **Vite** · **Tailwind CSS** · **HTML** · **CSS** · **Framer Motion**
-
-### Backend Development
-
-**Node.js** · **Express.js** · **FastAPI** · **REST APIs** · **Socket.IO**
-
-### Databases
-
-**MongoDB** · **PostgreSQL** · **Supabase**
-
-### AI & Machine Learning
-
-**Machine Learning** · **Deep Learning** · **Computer Vision** · **Natural Language Processing** · **AI-powered Applications**
-
-### Tools & Deployment
-
-**Git** · **GitHub** · **Docker** · **Postman** · **Vercel** · **Render** · **JWT**
-
-### Development Concepts
-
-**Authentication & Authorization** · **API Architecture** · **Real-time Applications** · **Database Design** · **Software Testing** · **Agile Development**
+</div>
 
 ---
 
-## Experience
+## `whoami`
 
-### Software Developer Intern — Fleact Tech, Islamabad
+```javascript
+const sufyan = {
+    name: "Muhammad Sufyan",
+    role: "Full-Stack Developer",
+    focus: ["AI/ML", "Deep Learning", "Web Engineering"],
 
-**June 2025 – August 2025**
+    education: {
+        degree: "Computer Science",
+        university: "COMSATS University Islamabad"
+    },
 
-Worked as part of a **4-member Agile development team**, contributing to software development and collaborating on real-world application development.
+    frontend: [
+        "React.js",
+        "Next.js",
+        "Vite",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Zustand"
+    ],
 
-Worked with modern web technologies and gained practical experience in:
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "Socket.IO"
+    ],
 
-- Full-stack application development
-- Backend API development
-- Database integration
-- Frontend development
-- Team-based Agile development
-- Git and collaborative development workflows
+    databases: [
+        "MongoDB",
+        "PostgreSQL",
+        "Supabase"
+    ],
+
+    ai_ml: [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "AI Applications"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Vercel",
+        "Render"
+    ],
+
+    currently: [
+        "Building full-stack applications",
+        "Exploring AI/ML research",
+        "Learning scalable system architecture"
+    ]
+};
+```
 
 ---
 
-## Featured Projects
+## `about`
 
-### AI-Assisted 2D Urban Planning & Society Map Generator
+I am a **Full-Stack Developer** with a growing focus on **Artificial Intelligence and Machine Learning**.
+
+I enjoy building complete products — from responsive interfaces and REST APIs to databases, real-time systems, deployment, and AI-powered functionality.
+
+My current direction is at the intersection of:
+
+**Full-Stack Engineering × Artificial Intelligence × Machine Learning**
+
+I care about building software that is not only functional, but also **scalable, maintainable, practical, and production-ready**.
+
+---
+
+## `what I build`
+
+```text
+Web Applications
+        ↓
+REST APIs
+        ↓
+Real-Time Systems
+        ↓
+Database Architecture
+        ↓
+AI / ML Integration
+        ↓
+Production Deployment
+```
+
+I particularly enjoy projects where **software engineering and AI solve a real problem together**.
+
+---
+
+# `featured projects`
+
+## AI-Assisted 2D Urban Planning & Society Map Generator
 
 **Final Year Project**
 
-An AI-assisted system designed to generate and organize **2D urban planning and society layouts**.
+An AI-assisted system for generating and visualizing 2D urban planning and society layouts.
 
-The project combines software engineering with AI-based approaches to assist in creating structured urban layouts and planning visualizations.
+**Focus**
 
-**Focus:** Artificial Intelligence · Computer Vision · Full-Stack Development
-
----
-
-### Car Rental Marketplace
-
-A full-stack marketplace application designed to connect users with car rental services.
-
-**Technologies:** React.js · Node.js · Express.js · MongoDB · REST APIs
-
-The project focuses on building a complete web application with frontend interfaces, backend APIs, database integration and deployment.
+`Artificial Intelligence` · `Computer Vision` · `Automation` · `Web Engineering`
 
 ---
 
-### Real-Time Chat Application
+## Car Rental Marketplace
 
-A WhatsApp-inspired real-time communication application built with the MERN stack and Socket.IO.
+A full-stack marketplace designed to connect users with rental vehicles through a modern web application.
 
-Features include:
+**Stack**
 
-- Real-time messaging
-- Authentication
-- Online/offline presence
-- Last-seen functionality
-- Message delivery status
-- Read receipts
-- Message editing
-- Message deletion
-- Real-time Socket.IO communication
+`MongoDB` · `Express.js` · `React.js` · `Node.js`
 
-**Technologies:** React.js · Node.js · Express.js · MongoDB · Socket.IO · JWT
+**Highlights**
 
----
-
-### Book Store
-
-A full-stack web application for browsing and managing books.
-
-**Technologies:** React.js · Node.js · Express.js · MongoDB · REST APIs
+* Authentication
+* REST APIs
+* Marketplace functionality
+* Database integration
+* Responsive frontend
+* Production deployment
 
 ---
 
-### NextLayerStudio
+## Real-Time Chat Application
 
-A MERN-based agency website focused on presenting digital development services through a modern responsive interface.
+A WhatsApp-inspired real-time communication platform built with the MERN stack and Socket.IO.
 
-**Technologies:** React.js · Node.js · MongoDB · Tailwind CSS · Framer Motion
+**Stack**
 
----
+`React` · `Node.js` · `Express` · `MongoDB` · `Socket.IO` · `JWT`
 
-## AI & Research Interests
+**Features**
 
-I’m particularly interested in the intersection of **Artificial Intelligence and Software Engineering**.
-
-My current areas of interest include:
-
-**Artificial Intelligence**
-
-**Machine Learning**
-
-**Deep Learning**
-
-**Computer Vision**
-
-**Natural Language Processing**
-
-**AI Safety**
-
-**AI Cybersecurity**
-
-**Intelligent Software Systems**
-
-I’m also interested in pursuing **AI research and publishing research work**, particularly in areas where AI can be applied to real-world engineering problems.
+* Real-time messaging
+* Online/offline presence
+* Typing indicators
+* Message delivery status
+* Read receipts
+* Message editing
+* Message deletion
+* Voice messages
+* Media sharing
+* JWT authentication
 
 ---
 
-## Currently Learning
+## Food Recognition & Calorie Estimation
 
-**Deep Learning**
+A computer-vision project focused on recognizing food items from images and estimating their calorie information.
 
-**Computer Vision**
+**Focus**
 
-**Natural Language Processing**
-
-**Transformer Architectures**
-
-**Attention Mechanisms**
-
-**AI Research Methodology**
-
-**AI Safety & Security**
+`Python` · `Machine Learning` · `Computer Vision` · `Image Classification`
 
 ---
 
-## GitHub Statistics
+## Machine Learning Implementations
+
+Hands-on implementations of fundamental machine-learning algorithms and concepts.
+
+**Implemented / Explored**
+
+```text
+Linear Regression
+K-Means Clustering
+Support Vector Machines
+Classification
+Feature Analysis
+Model Evaluation
+Machine Learning Fundamentals
+```
+
+---
+
+# `tech stack`
+
+### Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sufyankhan2412&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"
-    height="170"
-    alt="Muhammad Sufyan's GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan2412&layout=compact&hide_border=true&theme=github_dark"
-    height="170"
-    alt="Muhammad Sufyan's Most Used Languages"
-  />
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,html,css" />
+
 </p>
 
----
-
-## Contribution Streak
+### Frontend
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sufyankhan2412&theme=github-dark-blue&hide_border=true"
-    alt="Muhammad Sufyan's GitHub Contribution Streak"
-  />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
 </p>
 
-## Connect
-
-**GitHub:**  
-https://github.com/sufyankhan2412
-
-**LinkedIn:**  
-https://www.linkedin.com/in/sufyan-khan-3683bb291
-
-**Portfolio:**  
-https://portfolio-orcin-six-34.vercel.app/
-
-**Email:**  
-sufyanmk2024801@gmail.com
-
----
-
-## Open To Opportunities
-
-I’m currently interested in opportunities involving:
-
-**Software Engineering**
-
-**Full-Stack Development**
-
-**MERN Stack Development**
-
-**React / Next.js Development**
-
-**Backend Development**
-
-**AI/ML Engineering**
-
-**AI Research Internships**
-
-If you're working on an interesting product, research project, or engineering problem, feel free to connect.
-
----
+### Backend
 
 <p align="center">
-  <b>Build. Learn. Research. Improve.</b>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
 </p>
+
+### Databases & Infrastructure
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,docker,vercel" />
+
+</p>
+
+### Development
+
+```text
+Git
+GitHub
+REST APIs
+JWT
+Socket.IO
+Agile Development
+Responsive Design
+API Integration
+Deployment
+```
+
+---
+
+# `engineering toolkit`
+
+| Area                | Technologies                                                  |
+| ------------------- | ------------------------------------------------------------- |
+| **Frontend**        | React.js, Next.js, Vite, Tailwind CSS, Framer Motion, Zustand |
+| **Backend**         | Node.js, Express.js, REST APIs                                |
+| **Real-Time**       | Socket.IO, WebSockets                                         |
+| **Databases**       | MongoDB, PostgreSQL, Supabase                                 |
+| **Authentication**  | JWT                                                           |
+| **AI / ML**         | Python, Machine Learning, Deep Learning, Computer Vision      |
+| **DevOps**          | Docker, Vercel, Render                                        |
+| **Version Control** | Git, GitHub                                                   |
+
+---
+
+# `github activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sufyankhan2412&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan2412&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sufyankhan2412&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# `contribution graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan2412&bg_color=00000000&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# `currently exploring`
+
+<div align="center">
+
+```text
+AI Safety
+Machine Learning
+Deep Learning
+AI Cybersecurity
+Computer Vision
+LLM Applications
+Scalable Backend Architecture
+System Design
+AI Research
+```
+
+</div>
+
+---
+
+# `research direction`
+
+I am particularly interested in exploring the intersection of:
+
+**AI Safety · AI Cybersecurity · Machine Learning · Deep Learning**
+
+My goal is to strengthen my understanding of AI through **implementation, experimentation, research, and publication** while continuing to build real-world software systems.
+
+---
+
+# `learning roadmap`
+
+```text
+                    ┌──────────────────────┐
+                    │   SOFTWARE ENGINEER  │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ↓                ↓                ↓
+       Full-Stack Web       AI / ML          Systems
+              │                │                │
+              ↓                ↓                ↓
+       React / Next.js     Python / DL      Architecture
+       Node / Express      Computer Vision  APIs
+       MongoDB / SQL       AI Systems       Real-Time
+              │                │                │
+              └────────────────┼────────────────┘
+                               ↓
+                     AI-POWERED PRODUCTS
+                               ↓
+                         AI RESEARCH
+```
+
+---
+
+# `what's next`
+
+```text
+01  Build production-grade full-stack systems
+02  Deepen Machine Learning & Deep Learning expertise
+03  Explore Computer Vision and AI systems
+04  Study AI Safety and AI Cybersecurity
+05  Conduct practical AI research
+06  Publish meaningful research
+07  Build AI-powered products
+08  Grow into an AI-focused software engineer
+```
+
+---
+
+# `development philosophy`
+
+> **Build things that work.**
+>
+> **Understand how they work.**
+>
+> **Improve how they scale.**
+>
+> **Then research how they can become better.**
+
+---
+
+# `connect`
+
+<div align="center">
+
+<a href="https://github.com/sufyankhan2412">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sufyan-khan-3683bb291">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://portfolio-orcin-six-34.vercel.app/#get-in-touch">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:sufyanmk2024801@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Open to interesting software engineering, AI/ML, and research opportunities.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:111827,100:020617&height=140&section=footer&animation=twinkling" width="100%"/>
+
+</div>

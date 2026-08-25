@@ -212,5 +212,8 @@ My goal is to combine strong software-engineering fundamentals with practical AI
 **Open to software engineering, AI/ML, and research opportunities.**
 
 <img src="./assets/footer.svg" width="100%" alt="Animated footer"/>
+<p align="center">
+  <img src="./assets/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 </div>
